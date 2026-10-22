@@ -1,12 +1,8 @@
 # c-language-practice
 my first github repository for c language learning
-# C Language Practice
+
 This is my first repository. I am a Software Engineering student.
 I will upload my C language codes here
-
-# C Language Practice
-
-A collection of my C language learning projects. I am a Software Engineering student.
 
 ## Projects List
 
